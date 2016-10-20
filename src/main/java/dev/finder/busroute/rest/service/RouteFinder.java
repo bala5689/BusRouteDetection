@@ -37,7 +37,6 @@ public class RouteFinder {
     } catch (IOException | URISyntaxException exception) {
       LOGGER.severe("File " + exception.getMessage() + " not found");
     }
-
   }
 
   public void initialize() throws IOException, URISyntaxException {
