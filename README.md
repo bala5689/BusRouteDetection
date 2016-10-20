@@ -11,6 +11,6 @@ Spring boot application with REST interface that informs about the direct link b
 
 Run:
 
-1. Run the bash script "build.sh"
+1. Run the script "bash build.sh"
 2. cd /tests
 3. bash run_test_local.sh ../service.sh
